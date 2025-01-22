@@ -86,7 +86,7 @@ This project was a great opportunity to:
 - **Hackathon Challenge**: [Hack2Skill Event](https://vision.hack2skill.com/event/h2stc-building-chatbot-react?utm_source=h2shomepage&utm_medium=h2shomepage)
 
 ## License 📜
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENCE) file for details.
 
 ---
 Developed with ❤️ by [Deepak](https://github.com/deepakcode21).
