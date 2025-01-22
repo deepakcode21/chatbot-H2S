@@ -59,9 +59,6 @@ chatbot-H2S/
 ├── public/          # Static assets
 ├── src/             # Main source code
 │   ├── components/  # React components
-│   ├── styles/      # Tailwind CSS configurations
-│   ├── api/         # API call logic
-│   └── App.js       # Main application file
 ├── .env             # Environment variables
 ├── package.json     # Dependencies and scripts
 └── README.md        # Project documentation
