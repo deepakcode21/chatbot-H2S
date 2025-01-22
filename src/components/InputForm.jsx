@@ -1,6 +1,11 @@
 import React from "react";
 
-function InputForm({ question, setQuestion, generatingAnswer, generateAnswer }) {
+function InputForm({
+  question,
+  setQuestion,
+  generatingAnswer,
+  generateAnswer,
+}) {
   return (
     <form
       onSubmit={generateAnswer}
