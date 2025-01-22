@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <header
-      className="bg-[#00ADB5] text-[#EEEEEE] py-4 flex flex-col items-center justify-center shadow-lg rounded-t-lg"
+      className="bg-[#6D4FC2] text-[#EEEEEE] py-4 flex flex-col items-center justify-center shadow-lg rounded-t-lg"
     >
       <div className="container text-center">
         <h1 className="text-3xl font-bold">Chat AI</h1>

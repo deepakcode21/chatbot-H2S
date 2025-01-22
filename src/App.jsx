@@ -75,7 +75,7 @@ function App() {
       className="fixed inset-0 bg-gradient-to-br from-black via-gray-900 via-gray-700 to-gray-500 
     bg-[length:200%_200%] animate-[gradientMove_10s_linear_infinite]"
     >
-      <div className="h-full max-w-4xl mx-auto flex flex-col p-3 relative">
+      <div className="h-dvh max-w-4xl mx-auto flex flex-col p-3 relative">
         <Header />
         <ChatContainer
           chatHistory={chatHistory}
